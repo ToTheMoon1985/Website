@@ -1,0 +1,65 @@
+.text {
+  color: blue;
+  font-size: 18px;
+  text-align: center;
+  padding: 20px;
+  border-bottom: 1px dashed blue;
+  border-top: 1px dashed blue;
+  max-width: 400px;
+  display: inline-block;
+  margin: 50px 10px 100px 70px;
+
+}
+
+.title{
+  color: darkblue;
+  font-size: 30px;
+  text-align: center;
+  margin: 5 100 300;
+  position: relative;
+
+}
+
+
+ *{
+  font-family: sans-serif;
+  background-color: lightskyblue;
+  box-sizing: border-box;
+
+}
+
+.imgs{
+    margin: 20px 10px 20px 70px;
+    max-width: 500px;
+    position: inline-block;
+    
+
+}
+
+.ulinks{
+  color: royalblue;
+  font-weight: bold;
+  background-color: darkblue;
+  padding: 20px;
+}
+
+.ulinks:hover {
+  background: white;
+  color: red;
+}
+
+.moves{
+  position: relative;
+  height: 200px;
+  width: 300px;
+  margin: 0px 5px 10px 12px;
+}
+
+#mob{
+  position: inline-block;
+  margin: 50px 10px 20px 80px;
+}
+
+#mob-txt{
+  margin: 0px 0px 200px 150px;
+}
